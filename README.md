@@ -1,2 +1,3 @@
-# rapid-health-tracker-blpj
-Automated issue comment bot repository
+# Rapid Health Tracker Blpj
+
+Automated issue comment bot repository.
